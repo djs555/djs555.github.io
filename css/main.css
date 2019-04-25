@@ -2008,7 +2008,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     box-shadow: 0px 10px 30px 0px rgba(0, 0, 0, 0.08); }
 
 .faculty-area {
-  background-color: #f1f9ff; }
+  background-color: #ffd599; }
 
 .single-faculty .thumb {
   position: relative;
@@ -2743,7 +2743,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 /*  Footer Styles
 /* =================================== */
 .footer-area {
-  background: #283367; }
+  background: #fc9400; }
   @media (max-width: 991px) {
     .footer-area .single-footer-widget {
       margin-bottom: 30px; } }
@@ -2809,7 +2809,7 @@ body.mobile-nav-active #mobile-nav-toggle {
           text-align: left;
           margin-top: 30px; } }
       .footer-area .footer-bottom .footer-social a {
-        background: #3e4876;
+        background: #000000;
         margin-left: 5px;
         width: 40px;
         color: #fff;
